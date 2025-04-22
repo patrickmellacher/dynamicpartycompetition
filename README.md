@@ -1,1 +1,1 @@
-This is the source code + GUI of the model presented in the paper "Simulating Party Competition in Dynamic Voter Distributions".
+This is the source code + GUI of the model presented in the paper "Simulating Party Competition in Dynamic Voter Distributions". You can find the paper here: https://static.uni-graz.at/fileadmin/sowi-zentren/Schumpeter-Centre/GSC_Discussion_Paper/32_Geyer_and_Mellacher_2024.pdf
